@@ -64,8 +64,17 @@ I believe in building products that solve real problems and investing in ideas t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imShiravani&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imShiravani&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imShiravani&theme=radical" alt="GitHub Stats Details" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imShiravani&theme=radical" alt="Repos per Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imShiravani&theme=radical" alt="Most Commit Language" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imShiravani&theme=radical" alt="Stats" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imShiravani&theme=radical&utcOffset=3.5" alt="Productive Time" width="48%"/>
 </p>
 
 ---
