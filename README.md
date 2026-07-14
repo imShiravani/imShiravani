@@ -1,7 +1,7 @@
-<h1 align="center">سلام 👋 من محمد شیروانی هستم</h1>
+<h1 align="center">Hi 👋 I'm Mohammad Shiravani</h1>
 
 <p align="center">
-  <b>توسعه‌دهنده وب و اپلیکیشن | سرمایه‌گذار در پروژه‌های دیجیتال و استارت‌آپ</b>
+  <b>Web & App Developer | Digital Investor & Startup Partner</b>
 </p>
 
 <br>
@@ -18,53 +18,53 @@
 
 ---
 
-### 👨‍💻 درباره من
+### 👨‍💻 About Me
 
-من **محمد شیروانی** هستم، توسعه‌دهنده وب و اپلیکیشن با **لیسانس مهندسی کامپیوتر گرایش نرم‌افزار**.  
+I'm **Mohammad Shiravani**, a Web & App Developer with a **Bachelor's degree in Computer Engineering (Software).**
 
-در کنار برنامه‌نویسی، به‌عنوان **سرمایه‌گذار** در پروژه‌های دیجیتال و استارت‌آپ‌ها فعالیت می‌کنم.  
-همیشه به دنبال فرصت‌های جدید برای همکاری در پروژه‌های مبتنی بر فناوری، سرمایه‌گذاری دیجیتال و شرکت‌های برنامه‌نویسی هستم.
-
----
-
-### 🛠️ مهارت‌ها
-
-- **برنامه‌نویسی:** PHP, JavaScript, Python, MySQL
-- **ابزارها و فریم‌ورک‌ها:** Git, HTML, CSS, Bootstrap, APIs
-- **سرمایه‌گذاری:** تحلیل فرصت‌های دیجیتال، حمایت از استارت‌آپ‌های فناوری‌محور
+Alongside development, I'm also active as an **investor** in digital projects and tech startups.  
+I'm always open to new opportunities for collaboration in technology-driven projects, digital investments, and software companies.
 
 ---
 
-### 📁 پروژه‌های شاخص
+### 🛠️ Skills & Expertise
 
-| پروژه | توضیحات |
-|--------|----------|
-| **[EngineerHub](https://github.com/imShiravani/EngineerHub)** | داشبورد تمام‌کاره تحت وب برای مهندسان با طراحی شیشه‌ای، دوزبانه و ابزارهای کاربردی متنوع. شامل ماشین‌حساب، پلیر موسیقی، ویرایشگر متن، مدیریت فایل و پنل مدیریت کامل. |
-
-> در آینده پروژه‌های بیشتری به این بخش اضافه خواهد شد.
+- **Programming:** PHP, JavaScript, Python, MySQL
+- **Tools & Frameworks:** Git, HTML, CSS, Bootstrap, REST APIs
+- **Investing:** Evaluating digital opportunities, supporting tech startups
 
 ---
 
-### 🎓 تحصیلات
+### 📁 Featured Project
 
-- **کارشناسی مهندسی کامپیوتر** (گرایش نرم‌افزار)
+| Project | Description |
+|---------|-------------|
+| **[EngineerHub](https://github.com/imShiravani/EngineerHub)** | A full-featured web dashboard for engineers with glassmorphism design, bilingual support, and a wide range of tools including calculator, music player, text editor, file manager, and a complete admin panel. |
 
----
-
-### 📫 راه‌های ارتباطی
-
-- 📧 ایمیل: [imshiravani@gmail.com](mailto:imshiravani@gmail.com)
-- 🐙 گیت‌هاب: [github.com/imShiravani](https://github.com/imShiravani)
+> More projects will be added here in the future.
 
 ---
 
-### 🤝 همکاری
+### 🎓 Education
 
-اگر به دنبال همکاری در یک **پروژه استارت‌آپی**، **سرمایه‌گذاری دیجیتال** یا **توسعه نرم‌افزار** هستید، خوشحال می‌شوم با شما صحبت کنم.  
-از طریق ایمیل یا گیت‌هاب در دسترس هستم.
+- **Bachelor's in Computer Engineering** (Software Engineering)
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [imshiravani@gmail.com](mailto:imshiravani@gmail.com)
+- 🐙 GitHub: [github.com/imShiravani](https://github.com/imShiravani)
+
+---
+
+### 🤝 Let's Work Together
+
+If you're looking for a partner for a **startup project**, **digital investment**, or **software development**, feel free to reach out.  
+I'm available via email or GitHub.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imShiravani&label=تعداد+بازدید+پروفایل&color=blue&style=flat" alt="بازدید پروفایل"/>
+  <img src="https://komarev.com/ghpvc/?username=imShiravani&label=Profile+Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
