@@ -71,6 +71,10 @@ I believe in building products that solve real problems and investing in ideas t
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/EngineerHub-Project%20Link-00E5E5?style=for-the-badge&logo=github"/>
+</p>
+
+<p align="center">
   <sub>📊 آمار لحظه‌ای | Real-time stats</sub>
 </p>
 
