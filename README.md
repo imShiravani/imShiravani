@@ -64,17 +64,14 @@ I believe in building products that solve real problems and investing in ideas t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imShiravani&theme=radical" alt="GitHub Stats Details" width="100%"/>
+  <img src="https://img.shields.io/badge/Total%20Repositories-2-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Followers-0-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Following-1-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Languages-PHP%2C%20JavaScript%2C%20Python-4B8BBE?style=for-the-badge&logo=github"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imShiravani&theme=radical" alt="Repos per Language" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imShiravani&theme=radical" alt="Most Commit Language" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imShiravani&theme=radical" alt="Stats" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imShiravani&theme=radical&utcOffset=3.5" alt="Productive Time" width="48%"/>
+  <sub>📊 آمار لحظه‌ای | Real-time stats</sub>
 </p>
 
 ---
